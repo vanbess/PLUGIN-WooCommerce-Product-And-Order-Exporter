@@ -1,0 +1,73 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "42191a01816704181f9a2e3ac49db708",
+    "packages": [
+        {
+            "name": "josantonius/languagecode",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Josantonius/PHP-LanguageCode.git",
+                "reference": "f226ed3f194bea6f9d0dc9b30c2f6a31c6a874cd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Josantonius/PHP-LanguageCode/zipball/f226ed3f194bea6f9d0dc9b30c2f6a31c6a874cd",
+                "reference": "f226ed3f194bea6f9d0dc9b30c2f6a31c6a874cd",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Josantonius\\LanguageCode\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Josantonius",
+                    "email": "info@josantonius.com",
+                    "homepage": "https://github.com/josantonius",
+                    "role": "Developer"
+                }
+            ],
+            "description": "List of 217 language codes: ISO 639-1.",
+            "keywords": [
+                "ISO 639-1",
+                "hhvm",
+                "language",
+                "language code",
+                "php"
+            ],
+            "support": {
+                "issues": "https://github.com/Josantonius/PHP-LanguageCode/issues",
+                "source": "https://github.com/Josantonius/PHP-LanguageCode/tree/1.0.0"
+            },
+            "time": "2017-01-12T22:41:30+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

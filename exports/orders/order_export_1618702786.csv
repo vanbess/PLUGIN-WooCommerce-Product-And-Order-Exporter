@@ -1,0 +1,29 @@
+ID,Name,"Shipping Name","Shipping Street","Shipping Address1","Shipping Address2","Shipping Company","Shipping City","Shipping Zip","Shipping Province","Shipping Country","Shipping Phone","Dialling Code","Lineitem sku","Lineitem quantity","Order Total","Order Currency"
+ND1228,"sdfsdfsdf sdfsdfsdf",sdfsdfsdf,sdfsdfsdf,,brazil,sdfsdfsdf,21451521,sdfsdfsdf,COD-FI,241515245152,+27,"{5}ML25283(1), ML259562(10), ML259562(10), NO PRODUCTML251961(5), ML251953(8)",1,7806.00,USD
+ND1229,"sdfsdfsdf sdfsdfsdf",sdfsdfsdf,sdfsdfsdf,,brazil,sdfsdfsdf,21451521,sdfsdfsdf,COD-FI,241515245152,+27,"{2}ML251953(4), ML251953(4)",1,3152.00,USD
+ND1243,"sdfsdfsdf sdfsdfsdf",sdfsdfsdf,sdfsdfsdf,,brazil,sdfsdfsdf,21451521,sdfsdfsdf,COD-FI,241515245152,+27,"{2}ML251962(5), ML25950(7)",1,858.00,USD
+ND1244,"Tony Test","Test, t",Test,t,,testets,,Kowloon,COD-HK,12121212121,+852,"{2}NO PRODUCTND1001-5(1), ND1001-5(1)",1,2265.00,HKD
+ND1250,"test test",12321,12321,,"test test","lai chi kok",12121,Kowloon,HK,12121,+852,{1}ND1001-5(1),1,780.00,HKD
+ND1251,"Tony Zhou","RM 1703, 17/F, Trendy Centre, 682 Castle Peak Rd","RM 1703, 17/F, Trendy Centre, 682 Castle Peak Rd",,"Smart Ecom Limited","Lai Chi Kok",33221,Kowloon,HK,53640680,+852,{1}ND1001-5(1),1,780.00,HKD
+ND1252,"Tony Z","12121 dream","12121 dream",,,van,,Kowloon,HK,2121222111,+852,"{5}ND1001-5(1), ML25283(1), ML252823(1), ML25283(1), ML252823(1)",1,5090.00,HKD
+ND1265,"Tony Zhou","RM 1703, 17/F, Trendy Centre, 682 Castle Peak Rd","RM 1703, 17/F, Trendy Centre, 682 Castle Peak Rd",,"Smart Ecom Limited","Lai Chi Kok",33221,Kowloon,HK,53640680,+852,{1}ND1001-5(1),1,780.00,HKD
+ND1266,"Tony Zhou","RM 1703, 17/F, Trendy Centre, 682 Castle Peak Rd","RM 1703, 17/F, Trendy Centre, 682 Castle Peak Rd",,"Smart Ecom Limited","Lai Chi Kok",33221,Kowloon,HK,53640680,+852,{1}ND1001-5(1),1,780.00,HKD
+ND1268,"Tony Zhou","RM 1703, 17/F, Trendy Centre, 682 Castle Peak Rd","RM 1703, 17/F, Trendy Centre, 682 Castle Peak Rd",,"Smart Ecom Limited","Lai Chi Kok",33221,Kowloon,COD-HK,53640680,+852,"{6}ND1001(1), ND1001-5(1), ND1010-5(1), ND1010-5(1), ND1010-5(1), ML25400(1)",1,2074.00,HKD
+ND1269,"Tony Zhou","3322 Test, test","3322 Test",test,Test,test,12121,Kowloon,COD-HK,2323232,+852,{1}ND1001-5(1),1,780.00,HKD
+ND1270,"Tony Zhou","3343 Test","3343 Test",,,Test,2232,Kowloon,HK,333343333,+852,{1}ND1001-5(1),1,780.00,HKD
+ND1271,"sdfsdfsdf sdfsdfsdf",sdfsdfsdf,sdfsdfsdf,,brazil,sdfsdfsdf,21451521,sdfsdfsdf,COD-FI,241515245152,+27,"{1}NO PRODUCT",1,139.98,USD
+ND1272,"sdfsdfsdf sdfsdfsdf",sdfsdfsdf,sdfsdfsdf,,brazil,sdfsdfsdf,21451521,sdfsdfsdf,FI,241515245152,+27,{1}ND1002-2(3),1,285.00,USD
+ND1274,"sdfsdfsdf sdfsdfsdf",sdfsdfsdf,sdfsdfsdf,,brazil,sdfsdfsdf,21451521,sdfsdfsdf,COD-FI,241515245152,+27,"{2}ML25283(6), ML25283(3)",1,1374.00,USD
+ND1276,"Keith Chan","111, 11",111,11,aaaaa,11111,0000,"Hong Kong Island",COD-HK,27272727,+852,{1}ML25950(1),1,540.00,HKD
+ND1277,"Tony Zhou","333 Test St","333 Test St",,,Vancouver,222,Kowloon,COD-HK,33323222,+852,{1}ND1001-5(1),1,792.00,HKD
+ND1278,"Tony Zhou","Tony Test St","Tony Test St",,,"Cheung Sha Wan",00022,Kowloon,COD-HK,34333332,+852,{1}ND1001-5(1),1,792.00,HKD
+ND1279,"Tony Zhou","333 Test","333 Test",,,"Tony test",222,Kowloon,COD-HK,3334222,"{""reason"": ""RateLimited"", ""message"": ""Wait or DM twitter.com/ipapi_co"", ""wait"": 1.0, ""error"": true}",{1}ND1001-5(1),1,792.00,HKD
+ND1280,"Tony Zhou","RM 1703, 17/F, Trendy Centre, 682 Castle Peak Rd","RM 1703, 17/F, Trendy Centre, 682 Castle Peak Rd",,"Smart Ecom Limited","Lai Chi Kok",33221,Kowloon,HK,53640680,+852,{1}ND1001-5(3),1,0.00,HKD
+ND1289,"Werner Bessinger","5B Danie Pienaar Crescent, Pentagon Park","5B Danie Pienaar Crescent","Pentagon Park",,Bloemfontein,9330,"Free State",ZA,+2723125465,+31,"{2}ML251962(4), ND1001-5(6)",1,894.00,USD
+ND1293,"Werner Bessinger","Dorpstraat 5, Watergang","Dorpstraat 5",Watergang,,Amsterdam,"1454 AK",Amsterdam,NL,+31512584678,"{""reason"": ""RateLimited"", ""message"": ""Wait or DM twitter.com/ipapi_co"", ""wait"": 1.0, ""error"": true}",{1}ND1001-5(5),1,495.00,USD
+ND1294,"Werner Bessinger","Dorpstraat 5, Watergang","Dorpstraat 5",Watergang,,Amsterdam,"1454 AK",Amsterdam,NL,+31512584678,"{""reason"": ""RateLimited"", ""message"": ""Wait or DM twitter.com/ipapi_co"", ""wait"": 1.0, ""error"": true}",{1}ML251962(5),1,375.00,USD
+ND1295,"Werner Bessinger","Dorpstraat 5, Watergang","Dorpstraat 5",Watergang,,Amsterdam,"1454 AK",Amsterdam,NL,+31512584678,+27,{1}ML25283(3),1,900.00,USD
+ND1296,"Werner Bessinger","Dorpstraat 5, Watergang","Dorpstraat 5",Watergang,,Amsterdam,"1454 AK",Amsterdam,NL,+31512584678,+27,"{3}ND1002-2(6), ND1001-1(5), ND1001-1(5)",1,1560.00,USD
+ND1297,"Werner Bessinger","Dorpstraat 5, Watergang","Dorpstraat 5",Watergang,,Amsterdam,"1454 AK",Amsterdam,NL,+31512584678,"{""reason"": ""RateLimited"", ""message"": ""Wait or DM twitter.com/ipapi_co"", ""wait"": 1.0, ""error"": true}","{2}ND1002-2(5), ND1001-1(5)",1,970.00,USD
+ND1298,"Werner Bessinger","Dorpstraat 5, Watergang","Dorpstraat 5",Watergang,,Amsterdam,"1454 AK",Amsterdam,NL,+31512584678,+27,"{3}ML251953(5), ND1001-1(5), ML251963(3)",1,1165.00,USD
+ND1299,"Werner Bessinger","Dorpstraat 5, Watergang","Dorpstraat 5",Watergang,,Amsterdam,"1454 AK",Amsterdam,NL,+31512584678,"{""reason"": ""RateLimited"", ""message"": ""Wait or DM twitter.com/ipapi_co"", ""wait"": 1.0, ""error"": true}",{1}ML251962(5),1,375.00,USD
